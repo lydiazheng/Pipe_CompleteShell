@@ -13,7 +13,7 @@ Instruction to Compile:
 5. type 'exit' or use ctrl+D to quit my_shell
 
 
-Features that have been implemented:
+Features have been implemented:
 1. internal commands: exit, cd, pwd, history
 2. external commands
 3. pipes(e.g., cat textfile | gzip -c | gunzip -c | tail -n 10)
