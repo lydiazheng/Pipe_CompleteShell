@@ -1,6 +1,9 @@
 Weiling Zheng
 301294091  weilingz@sfu.ca
 
+Introduction:
+The program implements my own Linux shell with few internal commands and a set of fully functioning external commands. C language is the only programming languages used in the project due to operating system constraints. The latest feature, pipes, is integrated into the shell program to empower the efficiency of Linux shell. The following sections in readme file will provide compile instructions, supported commands, and sample outputs.
+
 How to run the function:
 1. type 'make'
 2. type './testfile'
