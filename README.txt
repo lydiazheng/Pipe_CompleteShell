@@ -4,17 +4,20 @@ Weiling Zheng
 Introduction:
 The program implements my own Linux shell with few internal commands and a set of fully functioning external commands. C language is the only programming languages used in the project due to operating system constraints. The latest feature, pipes, is integrated into the shell program to empower the efficiency of Linux shell. The following sections in readme file will provide compile instructions, supported commands, and sample outputs.
 
-How to run the function:
+
+Instruction to Compile:
 1. type 'make'
 2. type './testfile'
 3. then it will show my_shell: CMPT300@my_shell:~$
-4. you need to input the command to run this program
+4. input regular Linux commands to run this program
 5. type 'exit' or use ctrl+D to quit my_shell
 
-Features that have been done:
+
+Features that have been implemented:
 1. internal commands: exit, cd, pwd, history
 2. external commands
 3. pipes(e.g., cat textfile | gzip -c | gunzip -c | tail -n 10)
+
 
 The output sample:
 
